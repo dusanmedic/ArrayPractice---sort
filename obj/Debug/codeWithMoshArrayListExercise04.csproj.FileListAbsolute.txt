@@ -1,0 +1,7 @@
+D:\vezbe\New folder\codeWithMoshArrayListExercise04\bin\Debug\codeWithMoshArrayListExercise04.exe.config
+D:\vezbe\New folder\codeWithMoshArrayListExercise04\bin\Debug\codeWithMoshArrayListExercise04.exe
+D:\vezbe\New folder\codeWithMoshArrayListExercise04\bin\Debug\codeWithMoshArrayListExercise04.pdb
+D:\vezbe\New folder\codeWithMoshArrayListExercise04\obj\Debug\codeWithMoshArrayListExercise04.csproj.AssemblyReference.cache
+D:\vezbe\New folder\codeWithMoshArrayListExercise04\obj\Debug\codeWithMoshArrayListExercise04.csproj.CoreCompileInputs.cache
+D:\vezbe\New folder\codeWithMoshArrayListExercise04\obj\Debug\codeWithMoshArrayListExercise04.exe
+D:\vezbe\New folder\codeWithMoshArrayListExercise04\obj\Debug\codeWithMoshArrayListExercise04.pdb
